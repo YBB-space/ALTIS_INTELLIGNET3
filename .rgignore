@@ -1,0 +1,11 @@
+# Generated FLASH6 bundles; edit their source modules instead.
+GCS_Projects/FLASH6/flash6.runtime.js
+GCS_Projects/FLASH6/styles/flash6-app.css
+GCS_Projects/FLASH6/mobile_app_native/www/
+
+# Large third-party, build, and local-output trees.
+GCS_Projects/FLASH6/vendor/
+Firmwares/ALTIS_INTELLIGNET3_firmware/.pio/
+Others/Local_Artifacts/
+**/__pycache__/
+
